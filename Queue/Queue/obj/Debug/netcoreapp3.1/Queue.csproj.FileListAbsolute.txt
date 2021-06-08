@@ -1,0 +1,13 @@
+C:\Users\El-Wattaneya\source\repos\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+C:\Users\El-Wattaneya\source\repos\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+C:\Users\El-Wattaneya\source\repos\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+C:\Users\El-Wattaneya\source\repos\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+C:\Users\El-Wattaneya\source\repos\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+C:\Users\El-Wattaneya\source\repos\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\El-Wattaneya\source\repos\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.csprojAssemblyReference.cache
+C:\Users\El-Wattaneya\source\repos\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+C:\Users\El-Wattaneya\source\repos\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+C:\Users\El-Wattaneya\source\repos\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+C:\Users\El-Wattaneya\source\repos\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+C:\Users\El-Wattaneya\source\repos\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\El-Wattaneya\source\repos\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache

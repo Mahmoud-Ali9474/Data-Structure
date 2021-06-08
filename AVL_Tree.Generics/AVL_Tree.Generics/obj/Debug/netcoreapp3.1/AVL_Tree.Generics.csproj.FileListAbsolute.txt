@@ -1,0 +1,13 @@
+C:\Users\El-Wattaneya\source\repos\AVL_Tree.Generics\AVL_Tree.Generics\bin\Debug\netcoreapp3.1\AVL_Tree.Generics.exe
+C:\Users\El-Wattaneya\source\repos\AVL_Tree.Generics\AVL_Tree.Generics\bin\Debug\netcoreapp3.1\AVL_Tree.Generics.deps.json
+C:\Users\El-Wattaneya\source\repos\AVL_Tree.Generics\AVL_Tree.Generics\bin\Debug\netcoreapp3.1\AVL_Tree.Generics.runtimeconfig.json
+C:\Users\El-Wattaneya\source\repos\AVL_Tree.Generics\AVL_Tree.Generics\bin\Debug\netcoreapp3.1\AVL_Tree.Generics.runtimeconfig.dev.json
+C:\Users\El-Wattaneya\source\repos\AVL_Tree.Generics\AVL_Tree.Generics\bin\Debug\netcoreapp3.1\AVL_Tree.Generics.dll
+C:\Users\El-Wattaneya\source\repos\AVL_Tree.Generics\AVL_Tree.Generics\bin\Debug\netcoreapp3.1\AVL_Tree.Generics.pdb
+C:\Users\El-Wattaneya\source\repos\AVL_Tree.Generics\AVL_Tree.Generics\obj\Debug\netcoreapp3.1\AVL_Tree.Generics.csprojAssemblyReference.cache
+C:\Users\El-Wattaneya\source\repos\AVL_Tree.Generics\AVL_Tree.Generics\obj\Debug\netcoreapp3.1\AVL_Tree.Generics.AssemblyInfoInputs.cache
+C:\Users\El-Wattaneya\source\repos\AVL_Tree.Generics\AVL_Tree.Generics\obj\Debug\netcoreapp3.1\AVL_Tree.Generics.AssemblyInfo.cs
+C:\Users\El-Wattaneya\source\repos\AVL_Tree.Generics\AVL_Tree.Generics\obj\Debug\netcoreapp3.1\AVL_Tree.Generics.csproj.CoreCompileInputs.cache
+C:\Users\El-Wattaneya\source\repos\AVL_Tree.Generics\AVL_Tree.Generics\obj\Debug\netcoreapp3.1\AVL_Tree.Generics.dll
+C:\Users\El-Wattaneya\source\repos\AVL_Tree.Generics\AVL_Tree.Generics\obj\Debug\netcoreapp3.1\AVL_Tree.Generics.pdb
+C:\Users\El-Wattaneya\source\repos\AVL_Tree.Generics\AVL_Tree.Generics\obj\Debug\netcoreapp3.1\AVL_Tree.Generics.genruntimeconfig.cache

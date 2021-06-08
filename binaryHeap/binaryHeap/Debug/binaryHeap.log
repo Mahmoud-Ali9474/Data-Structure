@@ -1,0 +1,7 @@
+﻿  binaryHeap.cpp
+C:\Users\El-Wattaneya\source\repos\binaryHeap\binaryHeap\binaryHeap.cpp(38,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\El-Wattaneya\source\repos\binaryHeap\binaryHeap\binaryHeap.cpp(39,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\El-Wattaneya\source\repos\binaryHeap\binaryHeap\binaryHeap.cpp(39,70): warning C4018: '<': signed/unsigned mismatch
+C:\Users\El-Wattaneya\source\repos\binaryHeap\binaryHeap\binaryHeap.cpp(72,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\El-Wattaneya\source\repos\binaryHeap\binaryHeap\binaryHeap.cpp(75,23): warning C4018: '<': signed/unsigned mismatch
+  binaryHeap.vcxproj -> C:\Users\El-Wattaneya\source\repos\binaryHeap\Debug\binaryHeap.exe

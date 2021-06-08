@@ -1,0 +1,3 @@
+﻿  Trie.cpp
+C:\Users\El-Wattaneya\source\repos\Trie\Trie\Trie.cpp(17,22): warning C4018: '<': signed/unsigned mismatch
+  Trie.vcxproj -> C:\Users\El-Wattaneya\source\repos\Trie\Debug\Trie.exe
